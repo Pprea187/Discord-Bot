@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "token": "your prefix here",
+    "roleid": "role that take the member",
+    "onoffdutychannel": "on off duty channel",
+    "logs": "logs channelid"
+}
